@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+canvas + div {
+  display: none !important;
+}
+div[class*="spline"] > div[style*="position: absolute"] {
+  display: none !important;
+}
+
+/* 🌙 Dark Theme Variables */
+:root {
+  --background: #0f172a;
+  --foreground: #f1f5f9;
+  --card: #1e293b;
+  --muted: #64748b;
+  --primary: #6366f1;
+  --accent: #3b82f6;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+/* 🧩 Utility Classes */
+.card {
+  background-color: var(--card);
+  color: var(--foreground);
+  border-radius: 1rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  padding: 1.5rem;
+}
+
+.heading {
+  @apply text-2xl font-bold text-slate-100;
+}
+
+.subtle {
+  @apply text-sm text-slate-400;
+}
+.neon-navy {
+  color: #ffffff;
+  text-shadow:
+    0 0 3px #0a2472,
+    0 0 6px #0a2472,
+    0 0 12px #0a2472,
+    0 0 20px #0a2472;
+}
+
+/* 🎬 Custom Fade-In Animation (Optional) */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes float-slow {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-slow {
+  animation: float-slow 10s ease-in-out infinite;
+}

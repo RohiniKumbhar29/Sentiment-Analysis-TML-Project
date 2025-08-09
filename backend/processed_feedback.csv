@@ -1,0 +1,61 @@
+id,feedback,date,department,compound,pos,neu,neg,sentiment,pos_percent,neu_percent,neg_percent,comp_percent,feedback_length
+1,Micromanagement is still an issue in some teams.,2023-09-02,Sales,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,48
+2,The onboarding process was seamless and welcoming.,2023-02-18,Sales,0.4404,0.326,0.674,0.0,positive,32.6,67.4,0.0,44.04,50
+3,Some teams struggle with burnout.,2022-09-10,IT,-0.3182,0.0,0.635,0.365,negative,0.0,63.5,36.5,-31.819999999999997,33
+4,Transparency and honesty are valued and practiced here.,2022-03-25,HR,0.7269,0.504,0.496,0.0,positive,50.4,49.6,0.0,72.69,55
+5,The positive attitude here is contagious.,2023-06-20,Support,0.296,0.36,0.4,0.24,positive,36.0,40.0,24.0,29.599999999999998,41
+6,Not enough opportunities for internal promotion.,2023-11-17,Support,-0.2924,0.0,0.696,0.304,negative,0.0,69.6,30.4,-29.24,48
+7,There's plenty of room for growth and internal mobility.,2022-05-15,Support,0.3818,0.245,0.755,0.0,positive,24.5,75.5,0.0,38.18,56
+8,Our department constantly innovates and supports learning.,2022-01-10,HR,0.6705,0.524,0.476,0.0,positive,52.400000000000006,47.599999999999994,0.0,67.05,58
+9,The positive attitude here is contagious.,2022-04-13,Sales,0.296,0.36,0.4,0.24,positive,36.0,40.0,24.0,29.599999999999998,41
+10,Weekly check-ins keep me aligned and motivated.,2022-09-29,Marketing,0.4588,0.333,0.667,0.0,positive,33.300000000000004,66.7,0.0,45.879999999999995,47
+11,Micromanagement is still an issue in some teams.,2024-06-19,Marketing,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,48
+12,Excellent communication and open-door policy from leadership.,2023-03-25,IT,0.5719,0.381,0.619,0.0,positive,38.1,61.9,0.0,57.19,61
+13,Transparency and honesty are valued and practiced here.,2024-04-06,IT,0.7269,0.504,0.496,0.0,positive,50.4,49.6,0.0,72.69,55
+14,I enjoy the autonomy given in my role.,2022-11-03,Sales,0.4939,0.314,0.686,0.0,positive,31.4,68.60000000000001,0.0,49.39,38
+15,Tools are outdated and slow us down.,2022-09-28,Sales,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,36
+16,Sometimes communication lacks transparency.,2022-06-09,Support,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,43
+17,The recent training program really enhanced my skills.,2024-01-05,Support,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,54
+18,Colleagues are supportive and the work culture is inclusive.,2023-06-02,HR,0.296,0.216,0.784,0.0,positive,21.6,78.4,0.0,29.599999999999998,60
+19,I feel empowered to take on new challenges.,2022-04-05,HR,0.0772,0.157,0.843,0.0,positive,15.7,84.3,0.0,7.720000000000001,43
+20,Too many meetings affect productivity.,2022-01-04,Support,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,38
+21,Feedback is often not acted upon.,2022-06-15,HR,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,33
+22,The cafeteria serves nutritious and tasty meals.,2023-07-29,Sales,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,48
+23,The flexible work schedule has improved my work-life balance.,2023-07-13,Sales,0.6124,0.417,0.583,0.0,positive,41.699999999999996,58.3,0.0,61.24000000000001,61
+24,Some teams struggle with burnout.,2023-07-20,Marketing,-0.3182,0.0,0.635,0.365,negative,0.0,63.5,36.5,-31.819999999999997,33
+25,I feel empowered to take on new challenges.,2022-11-12,Support,0.0772,0.157,0.843,0.0,positive,15.7,84.3,0.0,7.720000000000001,43
+26,Too many meetings affect productivity.,2024-07-09,Support,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,38
+27,The onboarding process was seamless and welcoming.,2023-11-14,Sales,0.4404,0.326,0.674,0.0,positive,32.6,67.4,0.0,44.04,50
+28,I enjoy the autonomy given in my role.,2024-06-24,HR,0.4939,0.314,0.686,0.0,positive,31.4,68.60000000000001,0.0,49.39,38
+29,Tools are outdated and slow us down.,2024-08-05,Marketing,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,36
+30,Tools are outdated and slow us down.,2024-06-21,HR,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,36
+31,I'm proud to be part of such a forward-thinking organization.,2024-03-12,HR,0.4767,0.256,0.744,0.0,positive,25.6,74.4,0.0,47.67,61
+32,Not enough opportunities for internal promotion.,2022-10-01,Marketing,-0.2924,0.0,0.696,0.304,negative,0.0,69.6,30.4,-29.24,48
+33,Micromanagement is still an issue in some teams.,2023-01-27,Sales,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,48
+34,Not enough opportunities for internal promotion.,2022-07-24,HR,-0.2924,0.0,0.696,0.304,negative,0.0,69.6,30.4,-29.24,48
+35,"This is by far the best team I've worked with. Not only is leadership supportive, but peers are respectful, driven, and kind. We celebrate wins together and learn from our failures without blame. There’s a clear path to growth, and I truly feel like I belong here.",2022-12-25,Support,0.987,0.492,0.456,0.052,positive,49.2,45.6,5.2,98.7,264
+36,Not enough opportunities for internal promotion.,2022-08-17,Sales,-0.2924,0.0,0.696,0.304,negative,0.0,69.6,30.4,-29.24,48
+37,There's plenty of room for growth and internal mobility.,2022-12-03,Support,0.3818,0.245,0.755,0.0,positive,24.5,75.5,0.0,38.18,56
+38,Feedback is often not acted upon.,2022-12-26,IT,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,33
+39,I enjoy the autonomy given in my role.,2022-12-06,Sales,0.4939,0.314,0.686,0.0,positive,31.4,68.60000000000001,0.0,49.39,38
+40,Colleagues are supportive and the work culture is inclusive.,2022-07-02,IT,0.296,0.216,0.784,0.0,positive,21.6,78.4,0.0,29.599999999999998,60
+41,Feedback is often not acted upon.,2022-02-09,Sales,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,33
+42,The leadership genuinely cares about employee wellbeing.,2024-01-17,Support,0.4588,0.333,0.667,0.0,positive,33.300000000000004,66.7,0.0,45.879999999999995,56
+43,Weekly check-ins keep me aligned and motivated.,2022-04-29,HR,0.4588,0.333,0.667,0.0,positive,33.300000000000004,66.7,0.0,45.879999999999995,47
+44,Not enough opportunities for internal promotion.,2022-09-18,Sales,-0.2924,0.0,0.696,0.304,negative,0.0,69.6,30.4,-29.24,48
+45,Great team collaboration and leadership support.,2023-06-17,IT,0.7783,0.63,0.37,0.0,positive,63.0,37.0,0.0,77.83,48
+46,The recent training program really enhanced my skills.,2023-01-08,HR,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,54
+47,I'm proud to be part of such a forward-thinking organization.,2023-10-01,Support,0.4767,0.256,0.744,0.0,positive,25.6,74.4,0.0,47.67,61
+48,I appreciate the regular recognition from my manager.,2024-01-08,Support,0.4019,0.278,0.722,0.0,positive,27.800000000000004,72.2,0.0,40.19,53
+49,The cafeteria serves nutritious and tasty meals.,2022-12-01,HR,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,48
+50,I enjoy the autonomy given in my role.,2022-05-11,Marketing,0.4939,0.314,0.686,0.0,positive,31.4,68.60000000000001,0.0,49.39,38
+51,There's plenty of room for growth and internal mobility.,2023-11-25,Marketing,0.3818,0.245,0.755,0.0,positive,24.5,75.5,0.0,38.18,56
+52,Resources and tools provided make tasks more efficient.,2023-02-20,IT,0.4754,0.306,0.694,0.0,positive,30.599999999999998,69.39999999999999,0.0,47.54,55
+53,Feedback is often not acted upon.,2022-10-21,Marketing,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,33
+54,The positive attitude here is contagious.,2023-09-14,Support,0.296,0.36,0.4,0.24,positive,36.0,40.0,24.0,29.599999999999998,41
+55,This place feels like a second home.,2023-11-23,Marketing,0.3612,0.294,0.706,0.0,positive,29.4,70.6,0.0,36.120000000000005,36
+56,Excellent communication and open-door policy from leadership.,2023-11-06,Sales,0.5719,0.381,0.619,0.0,positive,38.1,61.9,0.0,57.19,61
+57,Transparency and honesty are valued and practiced here.,2022-12-10,Sales,0.7269,0.504,0.496,0.0,positive,50.4,49.6,0.0,72.69,55
+58,Not enough opportunities for internal promotion.,2023-11-20,Support,-0.2924,0.0,0.696,0.304,negative,0.0,69.6,30.4,-29.24,48
+59,The recent training program really enhanced my skills.,2022-05-31,Sales,0.0,0.0,1.0,0.0,neutral,0.0,100.0,0.0,0.0,54
+60,I love the hybrid work environment we have.,2023-09-18,Sales,0.6369,0.375,0.625,0.0,positive,37.5,62.5,0.0,63.690000000000005,43

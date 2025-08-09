@@ -1,0 +1,12 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact"
+    
+  },  "files.associations": {
+        "*.css": "tailwindcss"
+    },
+  "tailwindCSS.emmetCompletions": true
+  
+}

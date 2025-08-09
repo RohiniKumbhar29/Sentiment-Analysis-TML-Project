@@ -1,0 +1,1314 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2023-09-02 00:00:00",
+      "feedback": "Micromanagement is still an issue in some teams.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Sales"
+    },
+    {
+      "id": 2,
+      "date": "2023-02-18 00:00:00",
+      "feedback": "The onboarding process was seamless and welcoming.",
+      "compound": 0.4404,
+      "pos": 0.326,
+      "neu": 0.674,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 32.6,
+      "neu_percent": 67.4,
+      "neg_percent": 0.0,
+      "comp_percent": 44.04,
+      "department": "Sales"
+    },
+    {
+      "id": 3,
+      "date": "2022-09-10 00:00:00",
+      "feedback": "Some teams struggle with burnout.",
+      "compound": -0.3182,
+      "pos": 0.0,
+      "neu": 0.635,
+      "neg": 0.365,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 63.5,
+      "neg_percent": 36.5,
+      "comp_percent": -31.819999999999997,
+      "department": "IT"
+    },
+    {
+      "id": 4,
+      "date": "2022-03-25 00:00:00",
+      "feedback": "Transparency and honesty are valued and practiced here.",
+      "compound": 0.7269,
+      "pos": 0.504,
+      "neu": 0.496,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 50.4,
+      "neu_percent": 49.6,
+      "neg_percent": 0.0,
+      "comp_percent": 72.69,
+      "department": "HR"
+    },
+    {
+      "id": 5,
+      "date": "2023-06-20 00:00:00",
+      "feedback": "The positive attitude here is contagious.",
+      "compound": 0.296,
+      "pos": 0.36,
+      "neu": 0.4,
+      "neg": 0.24,
+      "sentiment": "positive",
+      "pos_percent": 36.0,
+      "neu_percent": 40.0,
+      "neg_percent": 24.0,
+      "comp_percent": 29.599999999999998,
+      "department": "Support"
+    },
+    {
+      "id": 6,
+      "date": "2023-11-17 00:00:00",
+      "feedback": "Not enough opportunities for internal promotion.",
+      "compound": -0.2924,
+      "pos": 0.0,
+      "neu": 0.696,
+      "neg": 0.304,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 69.6,
+      "neg_percent": 30.4,
+      "comp_percent": -29.24,
+      "department": "Support"
+    },
+    {
+      "id": 7,
+      "date": "2022-05-15 00:00:00",
+      "feedback": "There's plenty of room for growth and internal mobility.",
+      "compound": 0.3818,
+      "pos": 0.245,
+      "neu": 0.755,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 24.5,
+      "neu_percent": 75.5,
+      "neg_percent": 0.0,
+      "comp_percent": 38.18,
+      "department": "Support"
+    },
+    {
+      "id": 8,
+      "date": "2022-01-10 00:00:00",
+      "feedback": "Our department constantly innovates and supports learning.",
+      "compound": 0.6705,
+      "pos": 0.524,
+      "neu": 0.476,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 52.400000000000006,
+      "neu_percent": 47.599999999999994,
+      "neg_percent": 0.0,
+      "comp_percent": 67.05,
+      "department": "HR"
+    },
+    {
+      "id": 9,
+      "date": "2022-04-13 00:00:00",
+      "feedback": "The positive attitude here is contagious.",
+      "compound": 0.296,
+      "pos": 0.36,
+      "neu": 0.4,
+      "neg": 0.24,
+      "sentiment": "positive",
+      "pos_percent": 36.0,
+      "neu_percent": 40.0,
+      "neg_percent": 24.0,
+      "comp_percent": 29.599999999999998,
+      "department": "Sales"
+    },
+    {
+      "id": 10,
+      "date": "2022-09-29 00:00:00",
+      "feedback": "Weekly check-ins keep me aligned and motivated.",
+      "compound": 0.4588,
+      "pos": 0.333,
+      "neu": 0.667,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 33.300000000000004,
+      "neu_percent": 66.7,
+      "neg_percent": 0.0,
+      "comp_percent": 45.879999999999995,
+      "department": "Marketing"
+    },
+    {
+      "id": 11,
+      "date": "2024-06-19 00:00:00",
+      "feedback": "Micromanagement is still an issue in some teams.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Marketing"
+    },
+    {
+      "id": 12,
+      "date": "2023-03-25 00:00:00",
+      "feedback": "Excellent communication and open-door policy from leadership.",
+      "compound": 0.5719,
+      "pos": 0.381,
+      "neu": 0.619,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 38.1,
+      "neu_percent": 61.9,
+      "neg_percent": 0.0,
+      "comp_percent": 57.19,
+      "department": "IT"
+    },
+    {
+      "id": 13,
+      "date": "2024-04-06 00:00:00",
+      "feedback": "Transparency and honesty are valued and practiced here.",
+      "compound": 0.7269,
+      "pos": 0.504,
+      "neu": 0.496,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 50.4,
+      "neu_percent": 49.6,
+      "neg_percent": 0.0,
+      "comp_percent": 72.69,
+      "department": "IT"
+    },
+    {
+      "id": 14,
+      "date": "2022-11-03 00:00:00",
+      "feedback": "I enjoy the autonomy given in my role.",
+      "compound": 0.4939,
+      "pos": 0.314,
+      "neu": 0.686,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 31.4,
+      "neu_percent": 68.60000000000001,
+      "neg_percent": 0.0,
+      "comp_percent": 49.39,
+      "department": "Sales"
+    },
+    {
+      "id": 15,
+      "date": "2022-09-28 00:00:00",
+      "feedback": "Tools are outdated and slow us down.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Sales"
+    },
+    {
+      "id": 16,
+      "date": "2022-06-09 00:00:00",
+      "feedback": "Sometimes communication lacks transparency.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Support"
+    },
+    {
+      "id": 17,
+      "date": "2024-01-05 00:00:00",
+      "feedback": "The recent training program really enhanced my skills.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Support"
+    },
+    {
+      "id": 18,
+      "date": "2023-06-02 00:00:00",
+      "feedback": "Colleagues are supportive and the work culture is inclusive.",
+      "compound": 0.296,
+      "pos": 0.216,
+      "neu": 0.784,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 21.6,
+      "neu_percent": 78.4,
+      "neg_percent": 0.0,
+      "comp_percent": 29.599999999999998,
+      "department": "HR"
+    },
+    {
+      "id": 19,
+      "date": "2022-04-05 00:00:00",
+      "feedback": "I feel empowered to take on new challenges.",
+      "compound": 0.0772,
+      "pos": 0.157,
+      "neu": 0.843,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 15.7,
+      "neu_percent": 84.3,
+      "neg_percent": 0.0,
+      "comp_percent": 7.720000000000001,
+      "department": "HR"
+    },
+    {
+      "id": 20,
+      "date": "2022-01-04 00:00:00",
+      "feedback": "Too many meetings affect productivity.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Support"
+    },
+    {
+      "id": 21,
+      "date": "2022-06-15 00:00:00",
+      "feedback": "Feedback is often not acted upon.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "HR"
+    },
+    {
+      "id": 22,
+      "date": "2023-07-29 00:00:00",
+      "feedback": "The cafeteria serves nutritious and tasty meals.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Sales"
+    },
+    {
+      "id": 23,
+      "date": "2023-07-13 00:00:00",
+      "feedback": "The flexible work schedule has improved my work-life balance.",
+      "compound": 0.6124,
+      "pos": 0.417,
+      "neu": 0.583,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 41.699999999999996,
+      "neu_percent": 58.3,
+      "neg_percent": 0.0,
+      "comp_percent": 61.24000000000001,
+      "department": "Sales"
+    },
+    {
+      "id": 24,
+      "date": "2023-07-20 00:00:00",
+      "feedback": "Some teams struggle with burnout.",
+      "compound": -0.3182,
+      "pos": 0.0,
+      "neu": 0.635,
+      "neg": 0.365,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 63.5,
+      "neg_percent": 36.5,
+      "comp_percent": -31.819999999999997,
+      "department": "Marketing"
+    },
+    {
+      "id": 25,
+      "date": "2022-11-12 00:00:00",
+      "feedback": "I feel empowered to take on new challenges.",
+      "compound": 0.0772,
+      "pos": 0.157,
+      "neu": 0.843,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 15.7,
+      "neu_percent": 84.3,
+      "neg_percent": 0.0,
+      "comp_percent": 7.720000000000001,
+      "department": "Support"
+    },
+    {
+      "id": 26,
+      "date": "2024-07-09 00:00:00",
+      "feedback": "Too many meetings affect productivity.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Support"
+    },
+    {
+      "id": 27,
+      "date": "2023-11-14 00:00:00",
+      "feedback": "The onboarding process was seamless and welcoming.",
+      "compound": 0.4404,
+      "pos": 0.326,
+      "neu": 0.674,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 32.6,
+      "neu_percent": 67.4,
+      "neg_percent": 0.0,
+      "comp_percent": 44.04,
+      "department": "Sales"
+    },
+    {
+      "id": 28,
+      "date": "2024-06-24 00:00:00",
+      "feedback": "I enjoy the autonomy given in my role.",
+      "compound": 0.4939,
+      "pos": 0.314,
+      "neu": 0.686,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 31.4,
+      "neu_percent": 68.60000000000001,
+      "neg_percent": 0.0,
+      "comp_percent": 49.39,
+      "department": "HR"
+    },
+    {
+      "id": 29,
+      "date": "2024-08-05 00:00:00",
+      "feedback": "Tools are outdated and slow us down.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Marketing"
+    },
+    {
+      "id": 30,
+      "date": "2024-06-21 00:00:00",
+      "feedback": "Tools are outdated and slow us down.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "HR"
+    },
+    {
+      "id": 31,
+      "date": "2024-03-12 00:00:00",
+      "feedback": "I'm proud to be part of such a forward-thinking organization.",
+      "compound": 0.4767,
+      "pos": 0.256,
+      "neu": 0.744,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 25.6,
+      "neu_percent": 74.4,
+      "neg_percent": 0.0,
+      "comp_percent": 47.67,
+      "department": "HR"
+    },
+    {
+      "id": 32,
+      "date": "2022-10-01 00:00:00",
+      "feedback": "Not enough opportunities for internal promotion.",
+      "compound": -0.2924,
+      "pos": 0.0,
+      "neu": 0.696,
+      "neg": 0.304,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 69.6,
+      "neg_percent": 30.4,
+      "comp_percent": -29.24,
+      "department": "Marketing"
+    },
+    {
+      "id": 33,
+      "date": "2023-01-27 00:00:00",
+      "feedback": "Micromanagement is still an issue in some teams.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Sales"
+    },
+    {
+      "id": 34,
+      "date": "2022-07-24 00:00:00",
+      "feedback": "Not enough opportunities for internal promotion.",
+      "compound": -0.2924,
+      "pos": 0.0,
+      "neu": 0.696,
+      "neg": 0.304,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 69.6,
+      "neg_percent": 30.4,
+      "comp_percent": -29.24,
+      "department": "HR"
+    },
+    {
+      "id": 35,
+      "date": "2022-12-25 00:00:00",
+      "feedback": "This is by far the best team I've worked with. Not only is leadership supportive, but peers are respectful, driven, and kind. We celebrate wins together and learn from our failures without blame. There\u2019s a clear path to growth, and I truly feel like I belong here.",
+      "compound": 0.987,
+      "pos": 0.492,
+      "neu": 0.456,
+      "neg": 0.052,
+      "sentiment": "positive",
+      "pos_percent": 49.2,
+      "neu_percent": 45.6,
+      "neg_percent": 5.2,
+      "comp_percent": 98.7,
+      "department": "Support"
+    },
+    {
+      "id": 36,
+      "date": "2022-08-17 00:00:00",
+      "feedback": "Not enough opportunities for internal promotion.",
+      "compound": -0.2924,
+      "pos": 0.0,
+      "neu": 0.696,
+      "neg": 0.304,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 69.6,
+      "neg_percent": 30.4,
+      "comp_percent": -29.24,
+      "department": "Sales"
+    },
+    {
+      "id": 37,
+      "date": "2022-12-03 00:00:00",
+      "feedback": "There's plenty of room for growth and internal mobility.",
+      "compound": 0.3818,
+      "pos": 0.245,
+      "neu": 0.755,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 24.5,
+      "neu_percent": 75.5,
+      "neg_percent": 0.0,
+      "comp_percent": 38.18,
+      "department": "Support"
+    },
+    {
+      "id": 38,
+      "date": "2022-12-26 00:00:00",
+      "feedback": "Feedback is often not acted upon.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "IT"
+    },
+    {
+      "id": 39,
+      "date": "2022-12-06 00:00:00",
+      "feedback": "I enjoy the autonomy given in my role.",
+      "compound": 0.4939,
+      "pos": 0.314,
+      "neu": 0.686,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 31.4,
+      "neu_percent": 68.60000000000001,
+      "neg_percent": 0.0,
+      "comp_percent": 49.39,
+      "department": "Sales"
+    },
+    {
+      "id": 40,
+      "date": "2022-07-02 00:00:00",
+      "feedback": "Colleagues are supportive and the work culture is inclusive.",
+      "compound": 0.296,
+      "pos": 0.216,
+      "neu": 0.784,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 21.6,
+      "neu_percent": 78.4,
+      "neg_percent": 0.0,
+      "comp_percent": 29.599999999999998,
+      "department": "IT"
+    },
+    {
+      "id": 41,
+      "date": "2022-02-09 00:00:00",
+      "feedback": "Feedback is often not acted upon.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Sales"
+    },
+    {
+      "id": 42,
+      "date": "2024-01-17 00:00:00",
+      "feedback": "The leadership genuinely cares about employee wellbeing.",
+      "compound": 0.4588,
+      "pos": 0.333,
+      "neu": 0.667,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 33.300000000000004,
+      "neu_percent": 66.7,
+      "neg_percent": 0.0,
+      "comp_percent": 45.879999999999995,
+      "department": "Support"
+    },
+    {
+      "id": 43,
+      "date": "2022-04-29 00:00:00",
+      "feedback": "Weekly check-ins keep me aligned and motivated.",
+      "compound": 0.4588,
+      "pos": 0.333,
+      "neu": 0.667,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 33.300000000000004,
+      "neu_percent": 66.7,
+      "neg_percent": 0.0,
+      "comp_percent": 45.879999999999995,
+      "department": "HR"
+    },
+    {
+      "id": 44,
+      "date": "2022-09-18 00:00:00",
+      "feedback": "Not enough opportunities for internal promotion.",
+      "compound": -0.2924,
+      "pos": 0.0,
+      "neu": 0.696,
+      "neg": 0.304,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 69.6,
+      "neg_percent": 30.4,
+      "comp_percent": -29.24,
+      "department": "Sales"
+    },
+    {
+      "id": 45,
+      "date": "2023-06-17 00:00:00",
+      "feedback": "Great team collaboration and leadership support.",
+      "compound": 0.7783,
+      "pos": 0.63,
+      "neu": 0.37,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 63.0,
+      "neu_percent": 37.0,
+      "neg_percent": 0.0,
+      "comp_percent": 77.83,
+      "department": "IT"
+    },
+    {
+      "id": 46,
+      "date": "2023-01-08 00:00:00",
+      "feedback": "The recent training program really enhanced my skills.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "HR"
+    },
+    {
+      "id": 47,
+      "date": "2023-10-01 00:00:00",
+      "feedback": "I'm proud to be part of such a forward-thinking organization.",
+      "compound": 0.4767,
+      "pos": 0.256,
+      "neu": 0.744,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 25.6,
+      "neu_percent": 74.4,
+      "neg_percent": 0.0,
+      "comp_percent": 47.67,
+      "department": "Support"
+    },
+    {
+      "id": 48,
+      "date": "2024-01-08 00:00:00",
+      "feedback": "I appreciate the regular recognition from my manager.",
+      "compound": 0.4019,
+      "pos": 0.278,
+      "neu": 0.722,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 27.800000000000004,
+      "neu_percent": 72.2,
+      "neg_percent": 0.0,
+      "comp_percent": 40.19,
+      "department": "Support"
+    },
+    {
+      "id": 49,
+      "date": "2022-12-01 00:00:00",
+      "feedback": "The cafeteria serves nutritious and tasty meals.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "HR"
+    },
+    {
+      "id": 50,
+      "date": "2022-05-11 00:00:00",
+      "feedback": "I enjoy the autonomy given in my role.",
+      "compound": 0.4939,
+      "pos": 0.314,
+      "neu": 0.686,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 31.4,
+      "neu_percent": 68.60000000000001,
+      "neg_percent": 0.0,
+      "comp_percent": 49.39,
+      "department": "Marketing"
+    },
+    {
+      "id": 51,
+      "date": "2023-11-25 00:00:00",
+      "feedback": "There's plenty of room for growth and internal mobility.",
+      "compound": 0.3818,
+      "pos": 0.245,
+      "neu": 0.755,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 24.5,
+      "neu_percent": 75.5,
+      "neg_percent": 0.0,
+      "comp_percent": 38.18,
+      "department": "Marketing"
+    },
+    {
+      "id": 52,
+      "date": "2023-02-20 00:00:00",
+      "feedback": "Resources and tools provided make tasks more efficient.",
+      "compound": 0.4754,
+      "pos": 0.306,
+      "neu": 0.694,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 30.599999999999998,
+      "neu_percent": 69.39999999999999,
+      "neg_percent": 0.0,
+      "comp_percent": 47.54,
+      "department": "IT"
+    },
+    {
+      "id": 53,
+      "date": "2022-10-21 00:00:00",
+      "feedback": "Feedback is often not acted upon.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Marketing"
+    },
+    {
+      "id": 54,
+      "date": "2023-09-14 00:00:00",
+      "feedback": "The positive attitude here is contagious.",
+      "compound": 0.296,
+      "pos": 0.36,
+      "neu": 0.4,
+      "neg": 0.24,
+      "sentiment": "positive",
+      "pos_percent": 36.0,
+      "neu_percent": 40.0,
+      "neg_percent": 24.0,
+      "comp_percent": 29.599999999999998,
+      "department": "Support"
+    },
+    {
+      "id": 55,
+      "date": "2023-11-23 00:00:00",
+      "feedback": "This place feels like a second home.",
+      "compound": 0.3612,
+      "pos": 0.294,
+      "neu": 0.706,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 29.4,
+      "neu_percent": 70.6,
+      "neg_percent": 0.0,
+      "comp_percent": 36.120000000000005,
+      "department": "Marketing"
+    },
+    {
+      "id": 56,
+      "date": "2023-11-06 00:00:00",
+      "feedback": "Excellent communication and open-door policy from leadership.",
+      "compound": 0.5719,
+      "pos": 0.381,
+      "neu": 0.619,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 38.1,
+      "neu_percent": 61.9,
+      "neg_percent": 0.0,
+      "comp_percent": 57.19,
+      "department": "Sales"
+    },
+    {
+      "id": 57,
+      "date": "2022-12-10 00:00:00",
+      "feedback": "Transparency and honesty are valued and practiced here.",
+      "compound": 0.7269,
+      "pos": 0.504,
+      "neu": 0.496,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 50.4,
+      "neu_percent": 49.6,
+      "neg_percent": 0.0,
+      "comp_percent": 72.69,
+      "department": "Sales"
+    },
+    {
+      "id": 58,
+      "date": "2023-11-20 00:00:00",
+      "feedback": "Not enough opportunities for internal promotion.",
+      "compound": -0.2924,
+      "pos": 0.0,
+      "neu": 0.696,
+      "neg": 0.304,
+      "sentiment": "negative",
+      "pos_percent": 0.0,
+      "neu_percent": 69.6,
+      "neg_percent": 30.4,
+      "comp_percent": -29.24,
+      "department": "Support"
+    },
+    {
+      "id": 59,
+      "date": "2022-05-31 00:00:00",
+      "feedback": "The recent training program really enhanced my skills.",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "sentiment": "neutral",
+      "pos_percent": 0.0,
+      "neu_percent": 100.0,
+      "neg_percent": 0.0,
+      "comp_percent": 0.0,
+      "department": "Sales"
+    },
+    {
+      "id": 60,
+      "date": "2023-09-18 00:00:00",
+      "feedback": "I love the hybrid work environment we have.",
+      "compound": 0.6369,
+      "pos": 0.375,
+      "neu": 0.625,
+      "neg": 0.0,
+      "sentiment": "positive",
+      "pos_percent": 37.5,
+      "neu_percent": 62.5,
+      "neg_percent": 0.0,
+      "comp_percent": 63.690000000000005,
+      "department": "Sales"
+    }
+  ],
+  "monthly_trends": [
+    {
+      "month": "2022-01",
+      "monthly_avg_compound": 0.33525
+    },
+    {
+      "month": "2022-02",
+      "monthly_avg_compound": 0.0
+    },
+    {
+      "month": "2022-03",
+      "monthly_avg_compound": 0.7269
+    },
+    {
+      "month": "2022-04",
+      "monthly_avg_compound": 0.2773333333333333
+    },
+    {
+      "month": "2022-05",
+      "monthly_avg_compound": 0.2919
+    },
+    {
+      "month": "2022-06",
+      "monthly_avg_compound": 0.0
+    },
+    {
+      "month": "2022-07",
+      "monthly_avg_compound": 0.001799999999999996
+    },
+    {
+      "month": "2022-08",
+      "monthly_avg_compound": -0.2924
+    },
+    {
+      "month": "2022-09",
+      "monthly_avg_compound": -0.03795
+    },
+    {
+      "month": "2022-10",
+      "monthly_avg_compound": -0.1462
+    },
+    {
+      "month": "2022-11",
+      "monthly_avg_compound": 0.28555
+    },
+    {
+      "month": "2022-12",
+      "monthly_avg_compound": 0.4316
+    },
+    {
+      "month": "2023-01",
+      "monthly_avg_compound": 0.0
+    },
+    {
+      "month": "2023-02",
+      "monthly_avg_compound": 0.4579
+    },
+    {
+      "month": "2023-03",
+      "monthly_avg_compound": 0.5719
+    },
+    {
+      "month": "2023-06",
+      "monthly_avg_compound": 0.4567666666666666
+    },
+    {
+      "month": "2023-07",
+      "monthly_avg_compound": 0.09806666666666669
+    },
+    {
+      "month": "2023-09",
+      "monthly_avg_compound": 0.31096666666666667
+    },
+    {
+      "month": "2023-10",
+      "monthly_avg_compound": 0.4767
+    },
+    {
+      "month": "2023-11",
+      "monthly_avg_compound": 0.19508333333333336
+    },
+    {
+      "month": "2024-01",
+      "monthly_avg_compound": 0.2869
+    },
+    {
+      "month": "2024-03",
+      "monthly_avg_compound": 0.4767
+    },
+    {
+      "month": "2024-04",
+      "monthly_avg_compound": 0.7269
+    },
+    {
+      "month": "2024-06",
+      "monthly_avg_compound": 0.16463333333333333
+    },
+    {
+      "month": "2024-07",
+      "monthly_avg_compound": 0.0
+    },
+    {
+      "month": "2024-08",
+      "monthly_avg_compound": 0.0
+    }
+  ],
+  "weekly_trends": [
+    {
+      "week": "2022-01-03 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2022-01-10 00:00:00",
+      "weekly_avg_compound": 0.6705
+    },
+    {
+      "week": "2022-02-07 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2022-03-21 00:00:00",
+      "weekly_avg_compound": 0.7269
+    },
+    {
+      "week": "2022-04-04 00:00:00",
+      "weekly_avg_compound": 0.0772
+    },
+    {
+      "week": "2022-04-11 00:00:00",
+      "weekly_avg_compound": 0.296
+    },
+    {
+      "week": "2022-04-25 00:00:00",
+      "weekly_avg_compound": 0.4588
+    },
+    {
+      "week": "2022-05-09 00:00:00",
+      "weekly_avg_compound": 0.43784999999999996
+    },
+    {
+      "week": "2022-05-30 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2022-06-06 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2022-06-13 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2022-06-27 00:00:00",
+      "weekly_avg_compound": 0.296
+    },
+    {
+      "week": "2022-07-18 00:00:00",
+      "weekly_avg_compound": -0.2924
+    },
+    {
+      "week": "2022-08-15 00:00:00",
+      "weekly_avg_compound": -0.2924
+    },
+    {
+      "week": "2022-09-05 00:00:00",
+      "weekly_avg_compound": -0.3182
+    },
+    {
+      "week": "2022-09-12 00:00:00",
+      "weekly_avg_compound": -0.2924
+    },
+    {
+      "week": "2022-09-26 00:00:00",
+      "weekly_avg_compound": 0.055466666666666664
+    },
+    {
+      "week": "2022-10-17 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2022-10-31 00:00:00",
+      "weekly_avg_compound": 0.4939
+    },
+    {
+      "week": "2022-11-07 00:00:00",
+      "weekly_avg_compound": 0.0772
+    },
+    {
+      "week": "2022-11-28 00:00:00",
+      "weekly_avg_compound": 0.1909
+    },
+    {
+      "week": "2022-12-05 00:00:00",
+      "weekly_avg_compound": 0.6104
+    },
+    {
+      "week": "2022-12-19 00:00:00",
+      "weekly_avg_compound": 0.987
+    },
+    {
+      "week": "2022-12-26 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2023-01-02 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2023-01-23 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2023-02-13 00:00:00",
+      "weekly_avg_compound": 0.4404
+    },
+    {
+      "week": "2023-02-20 00:00:00",
+      "weekly_avg_compound": 0.4754
+    },
+    {
+      "week": "2023-03-20 00:00:00",
+      "weekly_avg_compound": 0.5719
+    },
+    {
+      "week": "2023-05-29 00:00:00",
+      "weekly_avg_compound": 0.296
+    },
+    {
+      "week": "2023-06-12 00:00:00",
+      "weekly_avg_compound": 0.7783
+    },
+    {
+      "week": "2023-06-19 00:00:00",
+      "weekly_avg_compound": 0.296
+    },
+    {
+      "week": "2023-07-10 00:00:00",
+      "weekly_avg_compound": 0.6124
+    },
+    {
+      "week": "2023-07-17 00:00:00",
+      "weekly_avg_compound": -0.3182
+    },
+    {
+      "week": "2023-07-24 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2023-08-28 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2023-09-11 00:00:00",
+      "weekly_avg_compound": 0.296
+    },
+    {
+      "week": "2023-09-18 00:00:00",
+      "weekly_avg_compound": 0.6369
+    },
+    {
+      "week": "2023-09-25 00:00:00",
+      "weekly_avg_compound": 0.4767
+    },
+    {
+      "week": "2023-11-06 00:00:00",
+      "weekly_avg_compound": 0.5719
+    },
+    {
+      "week": "2023-11-13 00:00:00",
+      "weekly_avg_compound": 0.07400000000000001
+    },
+    {
+      "week": "2023-11-20 00:00:00",
+      "weekly_avg_compound": 0.1502
+    },
+    {
+      "week": "2024-01-01 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2024-01-08 00:00:00",
+      "weekly_avg_compound": 0.4019
+    },
+    {
+      "week": "2024-01-15 00:00:00",
+      "weekly_avg_compound": 0.4588
+    },
+    {
+      "week": "2024-03-11 00:00:00",
+      "weekly_avg_compound": 0.4767
+    },
+    {
+      "week": "2024-04-01 00:00:00",
+      "weekly_avg_compound": 0.7269
+    },
+    {
+      "week": "2024-06-17 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2024-06-24 00:00:00",
+      "weekly_avg_compound": 0.4939
+    },
+    {
+      "week": "2024-07-08 00:00:00",
+      "weekly_avg_compound": 0.0
+    },
+    {
+      "week": "2024-08-05 00:00:00",
+      "weekly_avg_compound": 0.0
+    }
+  ],
+  "department_sentiment_avg": [
+    {
+      "department": "HR",
+      "compound": 0.2423
+    },
+    {
+      "department": "IT",
+      "compound": 0.36147142857142855
+    },
+    {
+      "department": "Marketing",
+      "compound": 0.12056666666666666
+    },
+    {
+      "department": "Sales",
+      "compound": 0.24281764705882355
+    },
+    {
+      "department": "Support",
+      "compound": 0.2114933333333333
+    }
+  ],
+  "department_sentiment_counts": [
+    {
+      "department": "HR",
+      "negative": 1,
+      "neutral": 4,
+      "positive": 7
+    },
+    {
+      "department": "IT",
+      "negative": 1,
+      "neutral": 1,
+      "positive": 5
+    },
+    {
+      "department": "Marketing",
+      "negative": 2,
+      "neutral": 3,
+      "positive": 4
+    },
+    {
+      "department": "Sales",
+      "negative": 2,
+      "neutral": 6,
+      "positive": 9
+    },
+    {
+      "department": "Support",
+      "negative": 2,
+      "neutral": 4,
+      "positive": 9
+    }
+  ],
+  "word_frequencies": [
+    {
+      "word": "internal",
+      "count": 9
+    },
+    {
+      "word": "opportunities",
+      "count": 6
+    },
+    {
+      "word": "promotion",
+      "count": 6
+    },
+    {
+      "word": "teams",
+      "count": 5
+    },
+    {
+      "word": "leadership",
+      "count": 5
+    },
+    {
+      "word": "work",
+      "count": 5
+    },
+    {
+      "word": "transparency",
+      "count": 4
+    },
+    {
+      "word": "growth",
+      "count": 4
+    },
+    {
+      "word": "enjoy",
+      "count": 4
+    },
+    {
+      "word": "autonomy",
+      "count": 4
+    }
+  ],
+  "longest_feedback": "This is by far the best team I've worked with. Not only is leadership supportive, but peers are respectful, driven, and kind. We celebrate wins together and learn from our failures without blame. There\u2019s a clear path to growth, and I truly feel like I belong here.",
+  "shortest_feedback": "Some teams struggle with burnout."
+}
