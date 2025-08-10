@@ -24,11 +24,11 @@ const UploadForm = ({ onUploadSuccess }) => {
 
       if (!res.ok) throw new Error("Upload failed");
 
-      setMessage("✅ Upload & analysis complete!");
+      setMessage(" Upload & analysis complete!");
       onUploadSuccess();
     } catch (err) {
       console.error(err);
-      setMessage("❌ Upload failed. Check console.");
+      setMessage(" Upload failed. Check console.");
     } finally {
       setLoading(false);
     }

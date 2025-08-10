@@ -79,7 +79,7 @@ class FeedbackSentimentDashboard:
         return Counter(filtered_words).most_common(10)
 
     def save_results(self):
-        print("🔄 Starting save_results...")
+        print(" Starting save_results...")
 
         monthly_avg = self.get_monthly_trends()
         weekly_avg = self.get_weekly_trends()
@@ -89,7 +89,7 @@ class FeedbackSentimentDashboard:
         word_counts = self.get_word_frequencies()
 
         self.df.to_csv("processed_feedback.csv", index=False)
-        print("✅ Saved processed_feedback.csv")
+        print(" Saved processed_feedback.csv")
 
         json_output = {
             "records": self.df.copy()[[
@@ -109,9 +109,9 @@ class FeedbackSentimentDashboard:
         try:
             with open("processed_feedback.json", "w") as f:
                 json.dump(json_output, f, indent=2, default=str)
-            print("✅ processed_feedback.json written successfully")
+            print(" processed_feedback.json written successfully")
         except Exception as e:
-            print("❌ Error writing processed_feedback.json:", e)
+            print(" Error writing processed_feedback.json:", e)
 
 if __name__ == '__main__':
     dashboard = FeedbackSentimentDashboard()

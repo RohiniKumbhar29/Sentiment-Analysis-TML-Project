@@ -26,13 +26,13 @@ const Landing = () => {
   return (
     <section className="relative min-h-screen w-full text-white overflow-hidden px-4 md:px-10 lg:px-20 py-20"
       style={{ backgroundColor: "#0f0f1f" }}>
-      {/* 💠 Background Glow Orbs */}
+      {/*  Background Glow Orbs */}
       <div className="absolute top-0 left-0 w-96 h-96 bg-blue-500 opacity-15 blur-3xl rounded-full z-0 animate-float"></div>
       <div className="absolute top-1/3 left-[-4rem] w-64 h-64 bg-blue-500 opacity-15 blur-3xl rounded-full z-0 animate-float"></div>
       <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 w-96 h-96 bg-blue-500 opacity-10 blur-[100px] rounded-full z-0"></div>
 
       <div className="flex flex-col-reverse md:flex-row items-center justify-between max-w-[1400px] mx-auto relative z-10">
-        {/* 👈 Text Section */}
+        {/*  Text Section */}
         <motion.div
           className="w-full md:w-1/2 text-center md:text-left"
           initial={{ opacity: 0, x: -40 }}
@@ -53,7 +53,7 @@ const Landing = () => {
           </a>
         </motion.div>
 
-        {/* 👉 Spline Object with Overlay */}
+        {/*  Spline Object with Overlay */}
         <motion.div
           className="w-full md:w-1/2 h-[800px] flex justify-center items-start md:items-center pt-20 relative overflow-hidden"
           initial={{ opacity: 0, scale: 0.9, y: 30 }}

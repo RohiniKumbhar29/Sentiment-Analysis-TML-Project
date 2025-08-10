@@ -25,7 +25,7 @@ const SentimentMeter = ({ sentimentScore = 76, allRecords = [] }) => {
     ),
   ];
 
-  // ✅ Set arc color based on score
+  //  Set arc color based on score
   let fillColor = "#3b82f6"; // blue
   if (score < 0) fillColor = "#ef4444";      // red
   else if (score === 0) fillColor = "#facc15"; // yellow

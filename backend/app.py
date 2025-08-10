@@ -23,23 +23,23 @@ def upload_file():
 
     file_path = os.path.join(app.config["UPLOAD_FOLDER"], file.filename)
     file.save(file_path)
-    print(f"✅ File uploaded: {file.filename}")
+    print(f" File uploaded: {file.filename}")
 
     try:
         dashboard = FeedbackSentimentDashboard(file_path)
         dashboard.load_data()
         dashboard.analyze_sentiments()
         dashboard.save_results()
-        print("✅ Analysis and save completed.")
+        print(" Analysis and save completed.")
         return jsonify({"message": "Analysis complete"}), 200
     except Exception as e:
-        print("❌ Upload failed with error:")
+        print(" Upload failed with error:")
         traceback.print_exc()
         return jsonify({"error": f"Failed to process file: {str(e)}"}), 500
 
 @app.route("/dashboard-data", methods=["GET"])
 def get_dashboard_data():
-    print("✅ /dashboard-data hit")
+    print(" /dashboard-data hit")
     try:
         with open("processed_feedback.json", "r") as f:
             data = json.load(f)
@@ -47,7 +47,7 @@ def get_dashboard_data():
     except FileNotFoundError:
         return jsonify({"error": "Processed data not found"}), 404
     except Exception as e:
-        print("❌ JSON load failed with error:")
+        print(" JSON load failed with error:")
         traceback.print_exc()
         return jsonify({"error": f"Invalid JSON: {str(e)}"}), 500
 

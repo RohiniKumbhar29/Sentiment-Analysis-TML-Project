@@ -105,9 +105,9 @@ const TrendChart = ({ data = [], title, xKey, yKey }) => {
                 label={{
                   value: "Compound Score",
                   angle: -90,
-                  position: "insideLeft",     // ✅ Keeps it visible and tidy
-                  offset: -5,                // ✅ Pushes it away from tick marks
-                  dy: 70,                    // ✅ Moves label down toward center
+                  position: "insideLeft",     // Keeps it visible and tidy
+                  offset: -5,                //  Pushes it away from tick marks
+                  dy: 70,                    //  Moves label down toward center
                   fill: "#aaa",
                   fontSize: 18,
                   textAnchor: "middle",

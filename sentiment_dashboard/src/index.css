@@ -11,7 +11,7 @@ div[class*="spline"] > div[style*="position: absolute"] {
   display: none !important;
 }
 
-/* 🌙 Dark Theme Variables */
+/*  Dark Theme Variables */
 :root {
   --background: #0f172a;
   --foreground: #f1f5f9;
@@ -31,7 +31,7 @@ body {
   font-weight: 400;
 }
 
-/* 🧩 Utility Classes */
+/* Utility Classes */
 .card {
   background-color: var(--card);
   color: var(--foreground);
@@ -56,7 +56,7 @@ body {
     0 0 20px #0a2472;
 }
 
-/* 🎬 Custom Fade-In Animation (Optional) */
+/* Custom Fade-In Animation (Optional) */
 @keyframes fadeIn {
   from {
     opacity: 0;

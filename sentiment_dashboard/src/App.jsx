@@ -21,7 +21,7 @@ function App() {
     fetchDashboardData()
       .then(setData)
       .catch((err) => {
-        console.error("❌ Failed to fetch dashboard data:", err);
+        console.error("Failed to fetch dashboard data:", err);
       });
   };
 
