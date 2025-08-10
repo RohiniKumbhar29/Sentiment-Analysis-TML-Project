@@ -1,4 +1,4 @@
-# Sentiment Analysis TML Project 
+
 # Sentiment Analysis Dashboard
 
 Full-stack dashboard to analyze employee feedback sentiment.
@@ -9,7 +9,7 @@ Full-stack dashboard to analyze employee feedback sentiment.
 
 ##  Setup & Run
 
-### 1️Backend
+### 1. Backend
 ```bash
 cd backend
 python -m venv .venv
@@ -22,7 +22,7 @@ python app.py
 ```
 Runs on: http://localhost:5000
 
-### 2️ Frontend
+### 2. Frontend
 ```bash
 cd frontend
 npm install
